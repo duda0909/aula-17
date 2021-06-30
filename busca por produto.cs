@@ -1,8 +1,4 @@
 using  System ;
-usando o  sistema . Coleções . Genérico ;
-usando  Mono . Dados . Sqlite ;
-
-
 class  MainClass {
 
    
